@@ -1,3 +1,3 @@
 
-print(f"The addition of")
+print(f"The ")
 
