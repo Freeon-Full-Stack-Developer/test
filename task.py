@@ -1,1 +1,1 @@
-start calc.exe
+print('super')
